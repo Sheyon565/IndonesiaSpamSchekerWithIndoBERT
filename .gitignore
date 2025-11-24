@@ -1,0 +1,5 @@
+venv/
+__pychache__/
+*.pys
+.DS_Store
+indoBERT-sms
